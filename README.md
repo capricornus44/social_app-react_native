@@ -1,1 +1,1 @@
-# social_app-rn
+# social_app-react-native
